@@ -1,0 +1,3 @@
+Ime: Nikola
+Prezime: Talevski
+Email: nikola,talevski@hotmail.com
