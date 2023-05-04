@@ -1,1 +1,2 @@
+napravena promena vo first_file.txt
 nasiot prv fajl
