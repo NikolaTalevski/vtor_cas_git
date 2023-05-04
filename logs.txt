@@ -1,0 +1,12 @@
+commit 84433e3ac87dcbf30307cd5c15233d7ec689f319 (HEAD -> main, origin/main)
+Author: Nikola <nikola.talevski@hotmail.com>
+Date:   Thu May 4 21:37:45 2023 +0200
+
+    moite licni podatoci
+
+commit dce9bc8a18909a3f7982038b2ab4ba133f30b442
+Author: Nikola <nikola.talevski@hotmail.com>
+Date:   Thu May 4 21:22:51 2023 +0200
+
+    add .gitignore file for secret file
+
